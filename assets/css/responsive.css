@@ -67,6 +67,9 @@
     .grid.wide {
         width: 400px;
     }
+    .case #zoom img {
+        transform: none;
+    }
     .intro {
         display: block;
         width: 140%;
